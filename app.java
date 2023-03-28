@@ -1,4 +1,4 @@
 #This is code for a web application.
 #Please do not hard code;make use of dynamic variables
-#This test has been successful
+#This test has been successful. Congratulations.
 #Author: Alexader
